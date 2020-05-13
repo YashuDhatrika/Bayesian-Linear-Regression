@@ -1,4 +1,4 @@
-Assignment4: 
+Bayesian Linear Regression
 
 
 The code_file.py file contains broadly 4 parts, one for each task. In totality the code picks required CSV file from the directory of the code file. The path isn’t hard coded, but the files need to be placed in code file directory.
